@@ -1,3 +1,1 @@
-
-
-console.log("Name: Aderinto wahab,  Language of choice: Javascript")
+console.log("Name: Deborah Animashaun,  Language of choice: Javascript");
